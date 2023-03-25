@@ -20,6 +20,8 @@ nginx -s stop
 nginx -h
 ```
 
+关于负载均衡算法的相关配置，详见 `proxy-server/config/nginx.conf` 文件。
+
 
 
 ## cluster-server(koa)
